@@ -1,0 +1,25 @@
+* {
+    font-weight: bolder;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    width: 640px;
+    margin: auto;
+}
+
+.buttons {
+    display: block;
+    margin-top: 4px;
+    border-radius: 3px;
+    background-color: #151BD5;
+    color: antiquewhite;
+}
+
+.hide {
+    display: none;
+}
